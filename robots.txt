@@ -1,0 +1,10 @@
+User-agent:
+*
+
+User-agent: Yandex
+
+
+host: steam-app.github.io
+
+
+Sitemap: https://steam-app.github.io/sitemap.xml
